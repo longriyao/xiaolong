@@ -23,10 +23,11 @@ comments: yes
 本站目前采用Github Pages.以Jekyll作为后台系统，[像一个黑客一样写博客]
 博客模板参考了
 
+- [晓雷](http://xiaolei.info)
 - [Linghua Zhang](http://lhzhang.com/)
 - [Tao Zhang](http://ztpala.com/)
 - [Yihui Xie](http://yihui.name/cn/about/)
 - [Elizen](http://code.elizen.me/about/)
-- [晓雷](http://xiaolei.info)
+
 
 在这里感谢以上各位博主。
