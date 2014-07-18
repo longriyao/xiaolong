@@ -2,7 +2,7 @@
 layout: post
 title: 知识管理一
 description: “”
-categorie: 高效学习
+categories: [高效学习]
 tags: [知识管理]
 ---
 
