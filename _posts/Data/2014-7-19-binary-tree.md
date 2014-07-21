@@ -2,7 +2,7 @@
 layout: post
 title: 二叉树
 description: ""
-categories: [data]
+categories: [数据结构]
 tags: [数据结构与算法]
 ---
 
