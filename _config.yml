@@ -103,7 +103,8 @@ paginate: 10
 permalink: /:year/:month/:day/:title/
 
 title: xiaolong.info
-url: http://xiaolong.info
+url: http://longriyao.github.io/xiaolong
+#url: http://xiaolong.info
 #url: http://localhost:4000/index.html
 feed: /feed/index.xml
 author: xiaolong
