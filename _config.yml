@@ -103,11 +103,8 @@ paginate: 10
 permalink: /:year/:month/:day/:title/
 
 title: xiaolong.info
-deploy:
-  type: github
-  repository: git@github.com:longriyao/longriyao.github.io.git
-  branch: gh-pages
-url: http://longriyao.github.io/xiaolong/xiaolong
+
+url: http://longriyao.github.io/
 #url: http://xiaolong.info
 #url: http://localhost:4000/index.html
 feed: /feed/index.xml
